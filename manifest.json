@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "application": {
+    "type": "backend",
+    "dependencies": ["database"],
+    "technology": {
+      "type": "nodejs",
+      "version": "18.0.0",
+      "options": {}
+    },
+    "platform": {
+      "type": "gcp",
+      "product": "cloud_run",
+      "location": "us-central1",
+      "options": {}
+    }
+  },
+  "metadata": {
+    "created": 1661684145
+  }
+}
